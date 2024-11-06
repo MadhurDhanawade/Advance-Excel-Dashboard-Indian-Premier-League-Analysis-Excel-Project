@@ -1,1 +1,3 @@
 # Advance-Excel-Dashboard-Indian-Premier-League-Analysis-Excel-Project
+
+The "Indian Premier League (IPL) Analysis Excel Project" involves using Excel to analyze key data related to IPL matches, teams, and players. The project includes gathering historical match data, team performance statistics, player stats (runs, wickets, strike rates, etc.), and visualizing trends using charts. Key tasks may include identifying top-performing players, predicting match outcomes, and analyzing team strategies. You will also use Excel functions like pivot tables, charts, and conditional formatting to present insightful results.
